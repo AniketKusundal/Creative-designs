@@ -322,9 +322,6 @@
         <h1 class="section-1-heading">Crative Design</h1>
     </section>
     <!--  Nav Bar  -->
-
-
-
     <section class="Section2">
 <div class="wrapper">
     <div class="card-switch">
@@ -355,20 +352,6 @@
     </div>   
 </div>
 </section>
-
-
-    <!-- Cards Section    -->
-
-
-
-
-
-
-    <!-- Cards Section    -->
-
-
-  
-
 
 </body>
 </html>
